@@ -1,2 +1,4 @@
 pandas
 transformers
+plotly.express
+textblob
